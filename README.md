@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=U9D3RTAK3R" alt="U9D3RTAK3R" /></a> </p>
 
-- 🔭 I'm currently working on **Smart Ambulance Booking System along with @ani183**
+- 🔭 I'm currently working on **Smart Ambulance Booking System along with [@anir183](https://github.com/anir183)**
 
 - 🌱 I'm currently learning **Rust, Tauri, OSS**
 
